@@ -1,0 +1,11 @@
+SampleID	Disease
+CHULI1_(MoGene-1_0-st-v1)	SAH
+CHULI2_(MoGene-1_0-st-v1)	SAH
+CHULI3_(MoGene-1_0-st-v1)	SAH
+CHULI4_(MoGene-1_0-st-v1)	SAH
+CHULI5_(MoGene-1_0-st-v1)	SAH
+DUIZHAO1_(MoGene-1_0-st-v1)	none
+DUIZHAO2_(MoGene-1_0-st-v1)	none
+DUIZHAO3_(MoGene-1_0-st-v1)	none
+DUIZHAO4_(MoGene-1_0-st-v1)	none
+DUIZHAO5_(MoGene-1_0-st-v1)	none
